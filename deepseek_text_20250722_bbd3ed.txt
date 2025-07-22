@@ -1,0 +1,15 @@
+/clothing-store/
+├── index.html          # Homepage
+├── products.html       # Product listing
+├── product-detail.html # Single product view
+├── cart.html          # Shopping cart
+├── checkout.html       # Checkout page
+├── css/
+│   ├── style.css       # Main styles
+│   └── responsive.css  # Responsive styles
+├── js/
+│   ├── main.js         # Main JavaScript
+│   ├── cart.js         # Cart functionality
+│   └── products.js     # Product data
+├── images/             # Product images
+└── README.md           # Project documentation
